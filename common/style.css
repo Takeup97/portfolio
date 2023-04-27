@@ -1,3 +1,12 @@
+:root{
+--clr1:#E38C7B;
+--clr2:#CED387;
+--clr3:#99817F;
+--clr4:#EBD186;
+--clr5:#94A395;
+--clr6:#000;
+--clr7:#fff;
+}
 
 body {
     font-size: 15pt;
@@ -9,17 +18,17 @@ p{
 }
 
 header{
-  background-color: #E38C7B;
+  background-color: var(--clr1);
 }
 nav{
-  background-color: #CED387;
+  background-color: var(--clr2);
 }
 section{
-  background-color: #99817F;
+  background-color: var(--clr3);
 }
 main{
-  background-color: #EBD186;
+  background-color: var(--clr4);
 }
 footer{
-  background-color: #94A395;
+  background-color: var(--clr5);
 }
