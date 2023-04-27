@@ -1,1 +1,25 @@
 
+body {
+    font-size: 15pt;
+}
+
+p{
+  line-height:1.5;
+  letter-spacing: 0.05em;
+}
+
+header{
+  background-color: #E38C7B;
+}
+nav{
+  background-color: #CED387;
+}
+section{
+  background-color: #99817F;
+}
+main{
+  background-color: #EBD186;
+}
+footer{
+  background-color: #94A395;
+}
