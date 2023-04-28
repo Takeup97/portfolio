@@ -8,27 +8,31 @@
 --clr7:#fff;
 }
 
+*,*:before,*:after {
+box-sizing: border-box;
+}
+
 body {
-    font-size: 15pt;
+font-size: 15pt;
 }
 
 p{
-  line-height:1.5;
-  letter-spacing: 0.05em;
+line-height:1.5;
+letter-spacing: 0.05em;
 }
 
 header{
-  background-color: var(--clr1);
+background-color: var(--clr1);
 }
 nav{
-  background-color: var(--clr2);
+background-color: var(--clr2);
 }
 section{
-  background-color: var(--clr3);
+background-color: var(--clr3);
 }
 main{
-  background-color: var(--clr4);
+background-color: var(--clr4);
 }
 footer{
-  background-color: var(--clr5);
+background-color: var(--clr5);
 }
