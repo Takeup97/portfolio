@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');
 
 :root{
@@ -38,7 +37,7 @@ background-position:center center;
 background-repeat:no-repeat;
 background-size:cover;
 width:100%;
-height:20vh;
+height:22.5vh;
 }
 
 header{
