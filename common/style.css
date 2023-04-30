@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500;700;900&display=swap');
+
 :root{
 --clr1:#E38C7B;
 --clr2:#CED387;
@@ -10,6 +12,10 @@
 
 *,*:before,*:after {
 box-sizing: border-box;
+}
+
+html{
+scroll-behavior:smooth;
 }
 
 body {
