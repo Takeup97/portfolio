@@ -21,6 +21,7 @@ font-family:'Zen Kaku Gothic Antique', sans-serif;
 
 body {
 min-height:100vh;
+display:flex;
 font-size:15pt;
 }
 
